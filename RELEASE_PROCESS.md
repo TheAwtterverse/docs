@@ -8,7 +8,6 @@ All releases must be approved by the **staff team** after **Discord-based beta t
 
 1. ✅ Finish development in `feature/*` or `hotfix/*`
 2. 📦 Bump version in `package.json` or `.vccpackage` manifest
-3. 📝 Update `CHANGELOG.md`
 4. 🧪 Share build in Discord test group
 5. ⏳ Wait for staff review and feedback
 6. ✅ If approved:
