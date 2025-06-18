@@ -52,3 +52,6 @@ All versions must be reviewed **in Discord** by the beta-testing group.
 ## 📝 Commits
 
 Use [Conventional Commits](https://www.conventionalcommits.org/):
+- `feat: add scene validation tool`
+- `fix: resolve crash when importing avatar`
+- `chore: update metadata`
